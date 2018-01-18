@@ -27,6 +27,7 @@ public class database {
 	
 	public void userCredit() {
 		System.out.println("hello agian");
+		System.out.println("a test");
 	}
 	
 	}
